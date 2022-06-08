@@ -1,0 +1,13 @@
+window_size 800 800
+grass_area 0 0 800 800
+Ball 100 200 10
+Hole 162 662 20
+Wall 0 0 800 10
+Wall 0 0 10 800
+Wall 790 0 800 800
+Wall 0 790 800 800
+Wall 570 150 580 250
+Wall 480 240 580 250
+water_area 470 320 790 480
+sharp_Wall 128 64 256 74
+sand_area 20 320 220 480
